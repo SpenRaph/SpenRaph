@@ -15,6 +15,5 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpenRaph&layout=compact&theme=dark" alt=SpenRaph />
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpenRaph&hide_progress=true&theme=tokyonight" alt=SpenRaph />
 
