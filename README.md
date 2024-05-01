@@ -6,7 +6,7 @@
     <li>Passionate about Tech and Creation 🌟📚 Constantly Evolving 🚀</li>
     <li>I love Art, Design, and Videogames | Constantly Learning 🎨🎮✨</li>
     <li>Versatile programmer | Leverage diverse programming skills to find solutions 💻</li>
-    <li>✨ Link to my portfolio https://spenraph.github.io/✨</li>
+    <li>Link to my portfolio https://spenraph.github.io/ </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
